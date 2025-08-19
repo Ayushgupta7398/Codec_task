@@ -70,9 +70,8 @@ except Exception as e:
     st.error(f"Error fetching data: {e}")
 
 
-
-
+# COMMAND FOR RUN THIS PROGRAM 
 
 # streamlit run f:\practice\stock_dashboard\app.py
- 
 #  streamlit run app.py
+
